@@ -73,7 +73,7 @@ export const zoology = [
       "Fish    ---lung",
       "Insect    ----trachea",
       "Bird    ----lung",
-      "Muscle attachment",
+      "Frog   ----skin",
     ],
     correctAnswers: [
       "Salamander    ----external gill",
