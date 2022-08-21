@@ -211,7 +211,12 @@ export const zoology = [
       "secrete mucus",
       "found in the ciliated columnar epithelium",
     ],
-    correctAnswers: ["between the ciliated cells", "moisten the air"],
+    correctAnswers: [
+      "between the ciliated cells",
+      "moisten the air",
+      "secrete mucus",
+      "found in the ciliated columnar epithelium",
+    ],
   },
   {
     id: 16,
